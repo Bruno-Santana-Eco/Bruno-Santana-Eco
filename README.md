@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/115036833/224480574-8b3c46b5-de4d-4e42-a7a9-9d4dc0d1114c.gif" width="500px" />
+</div>
+
 <!--
 **Bruno-Santana-Eco/Bruno-Santana-Eco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
