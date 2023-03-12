@@ -1,15 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bruno+Santana;I'm+economist;I+am+technology+enthusiast;I'm+studying+Data+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bruno+Santana;I'm+student+economy+in+UFBA;I+am+technology+enthusiast;I'm+studying+Data+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/115036833/224480574-8b3c46b5-de4d-4e42-a7a9-9d4dc0d1114c.gif" width="500px" />
+<img src="https://user-images.githubusercontent.com/115036833/224480574-8b3c46b5-de4d-4e42-a7a9-9d4dc0d1114c.gif" width="400px" />
 </div>
 
-<div align="center">  
-    <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Santana-Eco&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bruno-Santana-Eco&theme=gotham)
-
+* **Profissional em transição de área com paixão pelo mercado financeiro, ciência de dados, programação e áreas afins.**
+* **Tenho habilidade em me adaptar rapidamente a diferentes situações e sou um bom ouvinte, sempre buscando aprender e crescer com as experiências.**
+* **Meu foco sempre será na resolução de problemas e na busca de soluções eficazes.**
 
 ### Principais Programas:
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
@@ -35,3 +32,12 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+
+
+<div align="center">  
+    <img width="75%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Santana-Eco&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bruno-Santana-Eco&theme=gotham)
+
+
