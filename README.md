@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bruno+Santana;I'm+student+economy+in+UFBA;I+am+technology+enthusiast;I'm+studying+Data+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/115036833/224480574-8b3c46b5-de4d-4e42-a7a9-9d4dc0d1114c.gif" width="400px" />
+<img src="https://user-images.githubusercontent.com/115036833/225175456-fec5b037-c092-4e19-8166-e04953887c2c.gif" width="1000px" />
 </div>
 
 ### Profissional em transição de área com paixão pelo mercado financeiro, ciência de dados, programação e estatística. Tenho habilidade em me adaptar rapidamente a diferentes situações e sou um bom ouvinte, sempre buscando aprender e crescer com as experiências. Meu foco sempre será na resolução de problemas e na busca de soluções eficazes.
