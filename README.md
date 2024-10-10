@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/115036833/225175456-fec5b037-c092-4e19-8166-e04953887c2c.gif" width="1000px" />
 </div>
 
-### Profissional em transição de área com paixão pelo mercado financeiro, ciência de dados, programação e estatística. Tenho habilidade em me adaptar rapidamente a diferentes situações e sou um bom ouvinte, sempre buscando aprender e crescer com as experiências. Meu foco será reiteradamente na resolução de problemas e na busca de soluções eficazes.
+### Paixão pelo mercado financeiro, finanças, ciência de dados, programação e estatística. Sou altamente comprometido com o aprendizado contínuo e busco sempre aprimorar minhas habilidades técnicas.
 
 ### Principais Programas:
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
