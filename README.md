@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bruno+Santana;I'm+student+economy+in+UFBA;I+am+technology+enthusiast;I'm+studying+Data+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bruno+Santana;I'm+an+economist;I+am+technology+enthusiast;I'm+studying+Data+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/115036833/225175456-fec5b037-c092-4e19-8166-e04953887c2c.gif" width="1000px" />
